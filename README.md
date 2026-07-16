@@ -1,18 +1,30 @@
 <h1 align="center">Hi 👋, I'm Shiv Goyal</h1>
-<h3 align="center">Aspiring Software Developer | Competitive Programmer | Lifelong Learner</h3>
+
+<h3 align="center">
+Aspiring Software Developer | Competitive Programmer | Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiv-491981&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <a href="https://github.com/shivgoyal0307study-afk">
+    <img src="https://img.shields.io/github/followers/shivgoyal0307study-afk?label=Followers&style=social" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Student passionate about Software Development and Problem Solving
-- 💡 Interested in Data Structures & Algorithms, Web Development, and AI
-- 🌱 Currently improving my problem-solving and development skills
-- 🚀 Always eager to learn new technologies and build impactful projects
+🎓 Computer Science Student passionate about programming and software development.
+
+💡 I enjoy solving coding problems, learning new technologies, and building practical projects.
+
+🌱 Currently improving my skills in:
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Web Development
+- Problem Solving
+
+🚀 Goal: Become a skilled Software Engineer and contribute to impactful projects.
 
 ---
 
@@ -25,7 +37,7 @@
 - Python
 - JavaScript
 
-### Web Development
+### Web Technologies
 - HTML
 - CSS
 - JavaScript
@@ -40,49 +52,80 @@
 
 ---
 
-## 🏆 Competitive Programming Profiles
+## 💻 Competitive Programming
 
-- 💻 **LeetCode:** https://leetcode.com/u/shiv_491981/
-- 🍜 **CodeChef:** https://www.codechef.com/users/shiv_491981
-- ⚡ **HackerRank:** https://www.hackerrank.com/profile/shivgoyal0307
+<p align="left">
+
+<a href="https://leetcode.com/u/shiv_491981/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.codechef.com/users/shiv_491981">
+<img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/shivgoyal0307">
+<img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiv-491981&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivgoyal0307study-afk&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivgoyal0307study-afk&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiv-491981&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv-491981&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivgoyal0307study-afk&theme=tokyonight"/>
+
 </p>
 
 ---
 
 ## 🚀 Projects
 
-Here are some of the projects I've worked on:
+Here are some projects I've worked on:
 
+- 💻 Java Projects
 - 🌐 Web Development Projects
-- 💻 Data Structures & Algorithms
-- 🤖 AI & Machine Learning (Learning Phase)
+- 📚 Data Structures & Algorithms
+- 🤖 AI & Machine Learning (Learning)
 
-> *(Update this section with links to your repositories.)*
+> More projects coming soon!
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/shiv-491981
-- LeetCode: https://leetcode.com/u/shiv_491981/
-- CodeChef: https://www.codechef.com/users/shiv_491981
-- HackerRank: https://www.hackerrank.com/profile/shivgoyal0307
+📧 **LinkedIn:**  
+https://www.linkedin.com/in/491981-shiv-goyal
+
+💻 **GitHub:**  
+https://github.com/shivgoyal0307study-afk
+
+🍜 **CodeChef:**  
+https://www.codechef.com/users/shiv_491981
+
+⚡ **HackerRank:**  
+https://www.hackerrank.com/profile/shivgoyal0307
+
+🧩 **LeetCode:**  
+https://leetcode.com/u/shiv_491981/
 
 ---
 
-⭐ *"Code. Learn. Improve. Repeat."*
+## 💡 Quote
+
+> "Success is the sum of small efforts, repeated day in and day out."
+
+---
+
+⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
